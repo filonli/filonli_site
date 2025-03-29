@@ -124,7 +124,7 @@ st.write("Ідея створити Project Didoid, в мене з'вилася 
 rt = st.tabs(["Зворотний зв'язок"])
 with rt[0]:
     st.markdown("Номер телефону: +380666330475")
-    st.markdown("Електронна почта: squirrelreal@gmail.com")
+    st.markdown("Електронна пошта: squirrelreal@gmail.com")
     st.markdown("Itch.io(https://filonli.itch.io/)")
     st.markdown("GitHub(https://github.com/filonli)")
     st.markdown("Адреса: м.Суми,Україна")
